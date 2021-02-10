@@ -9,7 +9,6 @@ Free icons of extreme weather and weather warning symbols in various design styl
 
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
-
 [![CC BY 4.0][cc-by-image]][cc-by]
 
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
